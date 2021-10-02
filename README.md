@@ -1,2 +1,2 @@
-# ThinkIT_Weather_Prediction
+# Weather_Prediction
 Python code for weather forecasting implied while learning from online video
